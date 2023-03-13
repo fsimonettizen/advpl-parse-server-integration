@@ -1,0 +1,83 @@
+Group IndigoPDV
+   Version=7.0
+   VSSDB=
+   HasProperties=1
+   Properties
+      BeforeApply=
+      AfterApply=
+      Icon=
+      ID=
+      Version=
+      PalmName=
+      OutPut=
+   End
+   ProjectsCount=3
+   Project Fontes
+      FoldersCount=3
+      Folder Fontes - Genericos
+         VSSPath=Definições
+         FilesCount=4
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RGENJ01.prw
+             Type=T
+         End
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RGENJ02.prw
+             Type=T
+         End
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RGENJ03.prw
+             Type=T
+         End
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RGENJ04.prw
+             Type=T
+         End
+      End
+      Folder Fontes - Lib
+         VSSPath=Nova Pasta3
+         FilesCount=1
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RPDVXFUN.PRW
+             Type=T
+         End
+      End
+      Folder Fontes - PDV
+         VSSPath=Nova Pasta3
+         FilesCount=6
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RPDVJ01.prw
+             Type=T
+         End
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RPDVJ02.prw
+             Type=T
+         End
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RPDVJ03.prw
+             Type=T
+         End
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RPDVJ04.prw
+             Type=T
+         End
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RPDVJ05.prw
+             Type=T
+         End
+         File \projetos\indigo\indigoPDV\indigoPDV_protheus\RPDVJ06.prw
+             Type=T
+         End
+      End
+   End
+   Project JSON
+      FoldersCount=1
+      Folder Json
+         VSSPath=Nova Pasta1
+         FilesCount=2
+         File \projetos\indigo\JSON-ADVPL\lib\SHash.prg
+             Type=T
+         End
+         File \projetos\indigo\JSON-ADVPL\lib\JSON.prg
+             Type=T
+         End
+      End
+   End
+   Project Protheus
+      FoldersCount=1
+      Folder Fontes
+         VSSPath=Nova Pasta1
+         FilesCount=0
+      End
+   End
+End
